@@ -1,0 +1,12 @@
+{
+    "immigrationRecord": {
+        "documentType": "Passport",
+        "number": "34",
+        "issuedDate": "2019-10-10",
+        "expiryDate": "2029-09-10",
+        "eligibleStatus": "Active",
+        "issuedBy": "Jordan",
+        "eligibleReviewDate": "2029-08-10",
+        "comments": "Valid Passport"
+    }
+}

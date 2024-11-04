@@ -1,0 +1,18 @@
+{
+    "personalDetails": {
+      "firstName": "Bredlin",
+      "middleName": "Gamma",
+      "lastName": "Jose",
+      "employeeId": "1001",
+      "otherId": "999",
+      "driversLicenseNumber": "5678",
+      "licenseExpiryDate": "2022-12-22",
+      "nationality": "Indian",
+      "maritalStatus": "Single",
+      "dateOfBirth": "1997-02-22",
+      "gender": "Male",
+      "bloodType": "A+",
+      "testField": "445"
+    }
+  }
+  

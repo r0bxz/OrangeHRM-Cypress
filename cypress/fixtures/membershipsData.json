@@ -1,0 +1,10 @@
+{
+    "newMembership": {
+        "membership": "ACCA",
+        "paidBy": "Company",
+        "amount": "100",
+        "currency": "Kuwaiti Dinar",
+        "commenceDate": "2024-09-04",
+        "renewalDate": "2025-09-04"
+    }
+}

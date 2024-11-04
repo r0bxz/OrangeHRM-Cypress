@@ -1,0 +1,23 @@
+{
+    "vacancy": {
+      "vacancyName": "Test Junior Account Assistant",
+      "jobTitle": "Account Assistant",
+      "description": "Type description here",
+      "numberOfPositions": "1",
+      "rssFeedUrl": "https://opensource-demo.orangehrmlive.com/web/index.php/recruitmentApply/jobs.rss",
+      "webPageUrl": "https://opensource-demo.orangehrmlive.com/web/index.php/recruitmentApply/jobs.html",
+      "publishInRssFeed": true,
+      "publishInWebPage": true
+    },
+    "editedVacancy": {
+      "vacancyName": "QA Engineer",
+      "jobTitle": "QA Lead",
+      "description": "Updated description",
+      "numberOfPositions": "2",
+      "rssFeedUrl": "https://opensource-demo.orangehrmlive.com/web/index.php/recruitmentApply/updatedJobs.rss",
+      "webPageUrl": "https://opensource-demo.orangehrmlive.com/web/index.php/recruitmentApply/updatedJobs.html",
+      "publishInRssFeed": false,
+      "publishInWebPage": false
+    }
+  }
+  

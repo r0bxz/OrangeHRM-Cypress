@@ -1,0 +1,27 @@
+{
+    "candidate": {
+      "firstName": "Mahmoud",
+      "middleName": "Abu",
+      "lastName": "Alrob",
+      "vacancy": "test",
+      "email": "jos_butler@gmail.com",
+      "contactNumber": "9379309372",
+      "resume": "Resume.txt",
+      "keywords": "python,allure,selenium",
+      "dateOfApplication": "2024-08-29",
+      "notes": "Type here"
+    },
+    "editedCandidate": {
+      "firstName": "Ahmad",
+      "middleName": "Mohammad",
+      "lastName": "Alrob",
+      "vacancy": "Senior QA",
+      "email": "john_doe@gmail.com",
+      "contactNumber": "1234567890",
+      "resume": "updatedResume.txt",
+      "keywords": "java,restapi,cypress",
+      "dateOfApplication": "2024-08-29",
+      "notes": "Updated notes"
+    }
+  }
+  

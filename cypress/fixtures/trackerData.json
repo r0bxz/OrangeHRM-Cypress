@@ -1,0 +1,25 @@
+{
+    "newTracker": {
+      "trackerName": "New Performance Tracker",
+      "employeeName": "",
+      "reviewers": ""
+    },
+    "updatedTracker": {
+      "trackerName": "Updated Performance Tracker",
+      "employeeName": "",
+      "reviewers": ""
+    },
+    
+      "directory": {
+        "employeeName": ""
+      },
+      
+        "purge": {
+          "employeeName": ""
+        }
+      
+      
+    
+    
+  }
+  

@@ -1,0 +1,12 @@
+{
+    "newReview": {
+        "startDate": "2024-01-01",
+        "endDate": "2024-07-16",
+        "dueDate": "2024-11-30",
+        "employeeName": "",
+        "reviewerName":"",
+        "reviewerFirstName": "",
+        "employeeFirstAndLast" : ""
+
+    }
+}

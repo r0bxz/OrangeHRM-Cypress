@@ -1,0 +1,16 @@
+{
+    "newKpi": {
+        "kpiName": "Quality of Work",
+        "jobTitle": "QA Engineer",
+        "minRating": "0",
+        "maxRating": "100",
+        "isDefault": true
+    },
+    "updatedKpi": {
+        "kpiName": "Efficiency",
+        "jobTitle": "QA Lead",
+        "minRating": "10",
+        "maxRating": "90",
+        "isDefault": false
+    }
+}

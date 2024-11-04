@@ -1,0 +1,16 @@
+{
+    "contactDetails": {
+      "street1": "Street 1",
+      "street2": "Street 2",
+      "city": "City",
+      "stateProvince": "State/Province",
+      "zipPostalCode": "12345",
+      "country": "United States",
+      "homePhone": "112-898-7612",
+      "mobilePhone": "112-898-7612",
+      "workPhone": "112-898-7612",
+      "workEmail": "paul1@osohrm.com",
+      "otherEmail": "paul2@osohrm.com"
+    }
+  }
+  

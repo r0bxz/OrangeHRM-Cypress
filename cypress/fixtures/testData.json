@@ -1,0 +1,27 @@
+{
+    "employee": {
+      "firstName": "FirstName100",
+      "middleName": "MiddleName",
+      "lastName": "LastName100",
+      "employeeId": "EID1234",
+      "filePath": "logo.png"
+    },
+    "leave": {
+      "leaveType": "CAN - FMLA",
+      "fromDate": "2024-10-10",
+      "toDate": "2024-11-10",
+      "partialDays": "All Days",
+      "startDay": "Half Day - Morning",
+      "comment": "Applying leave for personal reasons"
+    },
+    "job": {
+      "jobTitle": "Job title 123",
+      "editedJobTitle": "Edited title 123"
+    },
+    "claim": {
+      "event": "Accommodation",
+      "currency": "Euro",
+      "remarks": "Test claim for accommodation"
+    }
+  }
+  
